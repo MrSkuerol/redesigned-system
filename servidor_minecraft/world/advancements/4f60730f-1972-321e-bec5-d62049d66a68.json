@@ -651,6 +651,12 @@
     },
     "done": false
   },
+  "mcwbridges:recipes/jungle_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-08-04 04:59:52 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/granite_bridge": {
     "criteria": {
       "has_planks": "2025-08-04 00:31:45 +0000"
@@ -2714,6 +2720,12 @@
   "cfm:recipes/cfm/stripped_acacia_desk_cabinet": {
     "criteria": {
       "has_log": "2025-08-04 02:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-04 05:00:23 +0000"
     },
     "done": true
   },
