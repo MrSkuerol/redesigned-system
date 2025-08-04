@@ -573,3 +573,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [04Aug2025 03:28:54.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer fell from a high place
 [04Aug2025 03:35:06.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer has made the advancement [Pic-A-Nic Basket?]
 [04Aug2025 03:36:10.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1392, l='ServerLevel[world]', x=-1078.96, y=226.00, z=59.51] died, message: 'Fisherman burned to death'
+[04Aug2025 04:06:37.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Teleported JesperOwo to assdestroyer]
+[04Aug2025 04:07:44.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Gave 1 [Block of Gold] to assdestroyer]
+[04Aug2025 04:08:10.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Gave 1 [Name Tag] to assdestroyer]
+[04Aug2025 04:16:40.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Gave 11 [Brown Bed] to assdestroyer]
