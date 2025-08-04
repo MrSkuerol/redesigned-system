@@ -1583,6 +1583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-08-04 02:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-08-04 00:29:30 +0000"
@@ -1928,6 +1934,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-04 00:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-04 02:50:11 +0000"
     },
     "done": true
   },
@@ -2338,6 +2350,12 @@
       "requirement_1": "2025-08-04 00:12:47 +0000"
     },
     "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-04 02:50:11 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/cfm/acacia_chair": {
     "criteria": {
