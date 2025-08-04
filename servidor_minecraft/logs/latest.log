@@ -577,3 +577,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [04Aug2025 04:07:44.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Gave 1 [Block of Gold] to assdestroyer]
 [04Aug2025 04:08:10.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Gave 1 [Name Tag] to assdestroyer]
 [04Aug2025 04:16:40.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Gave 11 [Brown Bed] to assdestroyer]
+[04Aug2025 04:21:21.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1281, l='ServerLevel[world]', x=-1091.80, y=68.00, z=39.66] died, message: 'Villager hit the ground too hard'
+[04Aug2025 04:23:50.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: assdestroyer lost connection: Timed out
+[04Aug2025 04:23:50.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer left the game
