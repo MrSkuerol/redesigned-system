@@ -3134,3 +3134,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [04Aug2025 00:15:05.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=87, z=-14}
 [04Aug2025 00:15:39.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has made the advancement [Amateur Archaeologist]
 [04Aug2025 00:15:46.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer has made the advancement [Amateur Archaeologist]
+[04Aug2025 00:19:32.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer has reached the goal [Sky's the Limit]
+[04Aug2025 00:19:33.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has reached the goal [Sky's the Limit]
+[04Aug2025 00:21:28.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[04Aug2025 00:21:47.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
+[04Aug2025 00:22:30.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[04Aug2025 00:23:14.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has made the advancement [Monster Hunter]
+[04Aug2025 00:24:17.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has made the advancement [Stone Age]
+[04Aug2025 00:25:46.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer has made the advancement [Monster Hunter]
+[04Aug2025 00:28:50.827] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8185, l='ServerLevel[world]', x=-1098.34, y=67.00, z=52.34] died, message: 'Villager hit the ground too hard'
+[04Aug2025 00:29:09.341] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['�eSmacking Alper the Unseen of Burning'/8949, l='ServerLevel[world]', x=-260.51, y=92.00, z=-53.31] died: �eSmacking Alper the Unseen of Burning was slain by JesperOwo
+[04Aug2025 00:32:41.865] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/8182, l='ServerLevel[world]', x=-1111.61, y=66.00, z=-17.15] died, message: 'Librarian hit the ground too hard'
+[04Aug2025 00:38:16.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has made the advancement [Chest Slayer]
+[04Aug2025 00:38:52.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has made the advancement [Diamonds!]
+[04Aug2025 00:40:16.117] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7531, l='ServerLevel[world]', x=-1068.45, y=236.66, z=25.54] died, message: 'Villager tried to swim in lava'
+[04Aug2025 00:40:40.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8238, l='ServerLevel[world]', x=-1099.52, y=64.00, z=1.43] died, message: 'Villager hit the ground too hard'
