@@ -564,3 +564,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [04Aug2025 03:02:39.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-947, y=61, z=0} BlockPos{x=-946, y=59, z=0}
 [04Aug2025 03:02:40.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-946, y=61, z=0} BlockPos{x=-946, y=59, z=1}
 [04Aug2025 03:08:05.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-789, y=60, z=-136} BlockPos{x=-790, y=60, z=-135}
+[04Aug2025 03:27:45.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: assdestroyer was kicked for floating too long!
+[04Aug2025 03:27:45.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: assdestroyer lost connection: Flying is not enabled on this server
+[04Aug2025 03:27:45.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer left the game
+[04Aug2025 03:28:44.824] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2fea25cb
+[04Aug2025 03:28:44.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: assdestroyer[/127.63.183.62:34451] logged in with entity id 25367 at (-1095.0464092693107, 124.48292456154692, 13.945613708990573)
+[04Aug2025 03:28:44.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer joined the game
+[04Aug2025 03:28:54.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer fell from a high place
+[04Aug2025 03:35:06.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer has made the advancement [Pic-A-Nic Basket?]
+[04Aug2025 03:36:10.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1392, l='ServerLevel[world]', x=-1078.96, y=226.00, z=59.51] died, message: 'Fisherman burned to death'
