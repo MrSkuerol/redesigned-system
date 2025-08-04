@@ -1,0 +1,34 @@
+{
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-08-04 00:09:36 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-08-04 00:09:36 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:tutorial/root": {
+    "criteria": {
+      "auto": "2025-08-04 00:09:37 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-08-04 00:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:swamp": "2025-08-04 00:09:37 +0000",
+      "minecraft:plains": "2025-08-04 00:10:15 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
