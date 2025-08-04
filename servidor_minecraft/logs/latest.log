@@ -3172,3 +3172,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [04Aug2025 01:17:09.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JesperOwo[/127.7.186.77:47679] logged in with entity id 20737 at (-1066.3125, 234.1302278312789, 23.472113876731363)
 [04Aug2025 01:17:09.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo joined the game
 [04Aug2025 01:17:24.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[04Aug2025 01:17:53.265] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7527, l='ServerLevel[world]', x=-1094.02, y=205.00, z=24.45] died, message: 'Villager hit the ground too hard'
+[04Aug2025 01:18:33.043] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8194, l='ServerLevel[world]', x=-1117.07, y=236.00, z=-9.52] died, message: 'Villager was slain by assdestroyer'
+[04Aug2025 01:19:19.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
+[04Aug2025 01:21:43.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: assdestroyer lost connection: Disconnected
+[04Aug2025 01:21:43.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer left the game
+[04Aug2025 01:23:24.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Aug2025 01:23:24.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Aug2025 01:23:24.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Aug2025 01:23:24.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Aug2025 01:23:26.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Aug2025 01:23:26.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Aug2025 01:23:26.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Aug2025 01:23:26.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Aug2025 01:23:26.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Aug2025 01:23:26.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Aug2025 01:23:26.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

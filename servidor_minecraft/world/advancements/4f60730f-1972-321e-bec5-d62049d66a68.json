@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_pillar": "2025-08-04 01:19:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-08-04 00:32:09 +0000"
@@ -755,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_pillar": "2025-08-04 01:19:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-08-04 00:12:03 +0000"
@@ -1239,6 +1251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_pillar": "2025-08-04 01:19:54 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/cobblestone": {
     "criteria": {
       "has_planks": "2025-08-04 00:24:17 +0000"
@@ -1422,6 +1440,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-08-04 00:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2025-08-04 01:19:54 +0000"
     },
     "done": true
   },
