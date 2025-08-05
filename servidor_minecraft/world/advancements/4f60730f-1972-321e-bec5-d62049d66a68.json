@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-08-05 23:43:07 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-08-04 05:12:26 +0000"
@@ -518,6 +524,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 04:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-05 23:45:16 +0000"
     },
     "done": true
   },
