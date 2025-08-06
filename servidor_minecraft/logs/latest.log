@@ -203,3 +203,24 @@
 [06Aug2025 01:26:40.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46874, l='ServerLevel[world]', x=-4118.43, y=65.13, z=3074.44] died, message: 'Villager was slain by Vindicator'
 [06Aug2025 01:27:23.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
 [06Aug2025 01:27:37.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[06Aug2025 01:28:54.048] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/47148, l='ServerLevel[world]', x=-4162.39, y=64.00, z=3129.78] died, message: 'Nitwit was shot by Pillager'
+[06Aug2025 01:30:16.496] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47445, l='ServerLevel[world]', x=-4151.53, y=62.94, z=3147.69] died, message: 'Villager was shot by Pillager'
+[06Aug2025 01:31:56.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
+[06Aug2025 01:31:57.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[06Aug2025 01:31:58.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[06Aug2025 01:32:30.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[06Aug2025 01:32:35.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has completed the challenge [Hero of the Village]
+[06Aug2025 01:33:16.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <assdestroyer> oi wa cenar
+[06Aug2025 01:33:23.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: assdestroyer lost connection: Disconnected
+[06Aug2025 01:33:23.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer left the game
+[06Aug2025 01:33:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> ta bien
+[06Aug2025 01:33:27.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
+[06Aug2025 01:33:30.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[06Aug2025 01:33:34.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
+[06Aug2025 01:34:05.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[06Aug2025 01:34:53.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has completed the challenge [Rude Awakening]
+[06Aug2025 01:35:41.956] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-279, 222], pos: BlockPos{x=-4453, y=46, z=3567}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / aquamirae:oxygelium]
+[06Aug2025 01:35:41.956] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-279, 222], pos: BlockPos{x=-4453, y=47, z=3567}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / aquamirae:oxygelium]
+[06Aug2025 01:35:41.957] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-278, 222], pos: BlockPos{x=-4446, y=50, z=3567}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / aquamirae:oxygelium]
+[06Aug2025 01:35:41.957] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-278, 222], pos: BlockPos{x=-4445, y=49, z=3567}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / aquamirae:oxygelium]
+[06Aug2025 01:38:26.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
