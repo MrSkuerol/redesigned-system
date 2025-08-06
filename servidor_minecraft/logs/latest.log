@@ -607,3 +607,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [06Aug2025 02:58:28.546] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4bbf01e0
 [06Aug2025 02:58:28.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: assdestroyer[/127.63.183.62:47625] logged in with entity id 232 at (-1118.6685522090875, 103.0, -33.47733944794329)
 [06Aug2025 02:58:28.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer joined the game
+[06Aug2025 03:13:12.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3191, l='ServerLevel[world]', x=-1109.11, y=64.00, z=-33.82] died, message: 'Villager hit the ground too hard'
+[06Aug2025 03:13:21.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3185, l='ServerLevel[world]', x=-1105.30, y=103.77, z=-36.70] died, message: 'Farmer was slain by assdestroyer'
+[06Aug2025 03:13:22.162] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3189, l='ServerLevel[world]', x=-1105.70, y=102.00, z=-36.30] died, message: 'Farmer was slain by assdestroyer'
+[06Aug2025 03:13:39.307] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3308, l='ServerLevel[world]', x=-1120.73, y=102.56, z=-36.42] died, message: 'Villager was slain by assdestroyer'
+[06Aug2025 03:14:00.105] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3432, l='ServerLevel[world]', x=-1107.32, y=102.56, z=-35.91] died, message: 'Villager was slain by assdestroyer'
+[06Aug2025 03:14:00.808] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3464, l='ServerLevel[world]', x=-1106.71, y=102.56, z=-35.62] died, message: 'Villager was slain by assdestroyer'
