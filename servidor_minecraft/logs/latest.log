@@ -612,3 +612,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [06Aug2025 03:53:25.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [06Aug2025 04:28:46.948] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/237, l='ServerLevel[world]', x=-1107.46, y=101.61, z=-19.50] died, message: 'Villager was slain by assdestroyer'
 [06Aug2025 04:29:14.895] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/236, l='ServerLevel[world]', x=-1105.50, y=100.96, z=-21.42] died, message: 'Farmer was slain by assdestroyer'
+[06Aug2025 04:49:27.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer has made the advancement [Source of Evil]
