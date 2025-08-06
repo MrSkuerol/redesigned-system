@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-08-06 00:26:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/yellow_cooler": {
     "criteria": {
       "has_chest": "2025-08-04 05:21:29 +0000"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/cobbled_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-08-04 00:13:17 +0000"
@@ -257,9 +269,21 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/polished_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-08-04 00:32:30 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-08-06 00:15:15 +0000"
     },
     "done": true
   },
@@ -389,6 +413,18 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/chiseled_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/sculk_stone_tile_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 00:37:16 +0000"
@@ -404,6 +440,18 @@
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-04 02:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-08-06 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/cobbled_sculk_stone_slab": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
     },
     "done": true
   },
@@ -581,6 +629,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/gloomslate_tiles_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-08-04 05:12:26 +0000"
@@ -623,6 +677,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/echo_planks": {
+    "criteria": {
+      "has_logs": "2025-08-06 00:30:40 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/acacia_planks": {
     "criteria": {
       "has_planks": "2025-08-04 02:20:54 +0000"
@@ -644,6 +704,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2025-08-04 04:14:16 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/sculk_stone_brick_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
     },
     "done": true
   },
@@ -707,6 +773,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-08-06 00:24:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-04 05:08:35 +0000"
@@ -719,6 +791,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/cobbled_gloomslate_slab": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-08-04 00:26:51 +0000"
@@ -728,6 +806,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-08-04 00:38:52 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/gloomslate_brick_wall_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
     },
     "done": true
   },
@@ -754,6 +838,7 @@
       "minecraft:skeleton": "2025-08-04 00:25:28 +0000",
       "minecraft:spider": "2025-08-04 00:26:46 +0000",
       "minecraft:creeper": "2025-08-04 00:25:33 +0000",
+      "minecraft:phantom": "2025-08-06 00:30:07 +0000",
       "minecraft:enderman": "2025-08-04 00:23:14 +0000",
       "minecraft:zombie": "2025-08-04 00:26:22 +0000"
     },
@@ -780,6 +865,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 00:37:16 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/polished_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
     },
     "done": true
   },
@@ -1425,6 +1516,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/chiseled_gloomslate_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_desk": {
     "criteria": {
       "has_planks": "2025-08-04 00:12:03 +0000"
@@ -1467,6 +1564,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/polished_gloomslate_wall_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:enderman": "2025-08-04 00:23:14 +0000"
@@ -1476,6 +1579,12 @@
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-04 02:19:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/gloomslate_tile_stairs_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
     },
     "done": true
   },
@@ -1505,16 +1614,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2025-08-06 00:17:34 +0000",
+      "minecraft:deep_ocean": "2025-08-06 00:16:40 +0000",
       "minecraft:sunflower_plains": "2025-08-06 00:02:36 +0000",
       "minecraft:birch_forest": "2025-08-04 00:24:47 +0000",
       "minecraft:windswept_hills": "2025-08-04 00:12:39 +0000",
       "minecraft:river": "2025-08-04 00:24:33 +0000",
+      "minecraft:snowy_plains": "2025-08-06 00:15:11 +0000",
       "minecraft:dripstone_caves": "2025-08-04 00:34:43 +0000",
       "minecraft:swamp": "2025-08-02 23:29:46 +0000",
+      "minecraft:grove": "2025-08-06 00:18:22 +0000",
       "minecraft:forest": "2025-08-04 00:10:56 +0000",
       "minecraft:windswept_savanna": "2025-08-03 00:23:11 +0000",
       "minecraft:flower_forest": "2025-08-06 00:03:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-04 00:23:54 +0000",
+      "minecraft:deep_dark": "2025-08-06 00:15:15 +0000",
       "minecraft:meadow": "2025-08-06 00:02:02 +0000",
       "minecraft:plains": "2025-08-04 00:21:38 +0000"
     },
@@ -1535,6 +1649,12 @@
   "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-08-05 23:58:16 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/polished_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
     },
     "done": true
   },
@@ -1694,6 +1814,18 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/sculk_stone_bricks_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-08-06 00:24:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-08-04 00:38:39 +0000"
@@ -1703,6 +1835,12 @@
   "cfm:recipes/cfm/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-08-05 23:58:16 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/gloomslate_brick_slab_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
     },
     "done": true
   },
@@ -2132,6 +2270,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/gloomslate": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_rail_bridge": {
     "criteria": {
       "has_planks": "2025-08-04 02:20:54 +0000"
@@ -2153,6 +2297,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-08-04 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/polished_gloomslate_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
     },
     "done": true
   },
@@ -2216,6 +2366,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-08-06 00:21:03 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2025-08-04 05:21:29 +0000"
@@ -2246,6 +2402,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/cobbled_gloomslate_wall": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2025-08-04 00:12:47 +0000"
@@ -2264,9 +2426,27 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/sculk_stone_tile_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-06 00:06:25 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/polished_gloomslate": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/gloomslate_tile_slab_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
     },
     "done": true
   },
@@ -2366,6 +2546,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-08-04 00:26:51 +0000"
@@ -2414,6 +2600,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/cobbled_gloomslate_stairs_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-04 05:08:35 +0000"
@@ -2444,6 +2636,15 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "shattered": "2025-08-06 00:29:01 +0000",
+      "phantom": "2025-08-06 00:30:07 +0000",
+      "warden": "2025-08-06 00:24:17 +0000",
+      "sculk_snapper": "2025-08-06 00:32:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-08-04 00:24:17 +0000"
@@ -2465,6 +2666,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-08-04 00:25:07 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/polished_sculk_stone": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
     },
     "done": true
   },
@@ -2528,9 +2735,21 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/gloomslate_tile_wall_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 00:37:16 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/polished_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
     },
     "done": true
   },
@@ -2567,6 +2786,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-04 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/sculk_stone_tiles_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
     },
     "done": true
   },
@@ -2660,6 +2885,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-08-06 00:15:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-08-04 00:31:45 +0000"
@@ -2669,6 +2900,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-08-04 00:25:07 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/polished_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
     },
     "done": true
   },
@@ -2720,6 +2957,18 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/cobbled_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/sculk_stone_tile_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 04:38:24 +0000"
@@ -2759,6 +3008,18 @@
   "cfm:recipes/cfm/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-08-04 05:21:29 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/cobbled_sculk_stone_stairs": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/gloomslate_brick_stairs_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
     },
     "done": true
   },
@@ -2876,6 +3137,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/sculk_stone": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-06 00:06:25 +0000"
@@ -2963,6 +3230,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-08-04 00:24:17 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-08-06 00:24:17 +0000"
     },
     "done": true
   },
@@ -3086,6 +3359,14 @@
     },
     "done": true
   },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2025-08-06 00:26:47 +0000",
+      "deeplands": "2025-08-06 00:29:59 +0000",
+      "echoing_forest": "2025-08-06 00:28:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-08-05 23:58:16 +0000"
@@ -3141,6 +3422,18 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/gloomslate_bricks_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/cobbled_sculk_stone_wall": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-08-04 00:23:44 +0000"
@@ -3153,6 +3446,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/cobbled_gloomslate_wall_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-08-04 05:12:26 +0000"
@@ -3162,6 +3461,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-08-04 00:12:47 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/cobbled_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
     },
     "done": true
   },
@@ -3285,6 +3590,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/polished_gloomslate_stairs_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-08-05 23:58:16 +0000"
@@ -3333,9 +3644,27 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/sculk_stone_brick_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-06 00:20:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-08-04 00:12:03 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/cobbled_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
     },
     "done": true
   },
@@ -3396,6 +3725,12 @@
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-08-05 23:58:16 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/cobbled_gloomslate_stairs": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
     },
     "done": true
   },
