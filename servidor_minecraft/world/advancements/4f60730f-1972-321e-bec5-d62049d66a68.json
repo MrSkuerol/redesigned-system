@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-08-06 01:05:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 00:37:16 +0000"
@@ -116,6 +122,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-08-04 00:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-08-06 01:01:58 +0000"
     },
     "done": true
   },
@@ -203,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-06 01:05:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-08-04 00:13:03 +0000"
@@ -263,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-06 01:05:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/brown_grill": {
     "criteria": {
       "has_iron": "2025-08-06 00:52:34 +0000"
@@ -292,6 +316,12 @@
       "has_stone": "2025-08-04 02:19:44 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-06 01:03:08 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/dark_oak_desk": {
     "criteria": {
@@ -473,6 +503,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-08-06 01:02:18 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/deeperdarker/chiseled_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
@@ -506,6 +542,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-08-06 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2025-08-06 01:22:24 +0000"
     },
     "done": true
   },
@@ -602,6 +644,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-08-04 02:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-06 01:05:05 +0000"
     },
     "done": true
   },
@@ -881,6 +929,18 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "revenant": "2025-08-06 01:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-06 01:05:05 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/deeperdarker/cobbled_gloomslate_slab": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
@@ -925,11 +985,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-06 01:00:26 +0000",
       "minecraft:skeleton": "2025-08-04 00:25:28 +0000",
+      "minecraft:vindicator": "2025-08-06 01:24:55 +0000",
       "minecraft:spider": "2025-08-04 00:26:46 +0000",
       "minecraft:creeper": "2025-08-04 00:25:33 +0000",
       "minecraft:phantom": "2025-08-06 00:30:07 +0000",
       "minecraft:enderman": "2025-08-04 00:23:14 +0000",
+      "minecraft:stray": "2025-08-06 01:21:10 +0000",
       "minecraft:zombie": "2025-08-04 00:26:22 +0000"
     },
     "done": false
@@ -1030,6 +1093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2025-08-06 01:26:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-08-04 00:25:07 +0000"
@@ -1045,6 +1114,12 @@
   "mcwbridges:recipes/balustrade_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-08-04 00:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-06 01:01:49 +0000"
     },
     "done": true
   },
@@ -1564,6 +1639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-08-06 01:05:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-08-04 00:13:17 +0000"
@@ -1678,6 +1759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2025-08-06 01:26:57 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-08-04 00:08:35 +0000"
@@ -1720,6 +1807,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-06 01:07:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-08-05 23:58:16 +0000"
@@ -1744,19 +1837,34 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-08-06 01:05:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mushroom_fields": "2025-08-06 00:17:34 +0000",
+      "minecraft:taiga": "2025-08-06 01:12:53 +0000",
       "minecraft:deep_ocean": "2025-08-06 00:16:40 +0000",
+      "minecraft:frozen_river": "2025-08-06 01:16:37 +0000",
       "minecraft:sunflower_plains": "2025-08-06 00:02:36 +0000",
       "minecraft:birch_forest": "2025-08-04 00:24:47 +0000",
       "minecraft:windswept_hills": "2025-08-04 00:12:39 +0000",
+      "minecraft:beach": "2025-08-06 01:12:29 +0000",
+      "minecraft:dark_forest": "2025-08-06 01:12:16 +0000",
       "minecraft:river": "2025-08-04 00:24:33 +0000",
       "minecraft:snowy_plains": "2025-08-06 00:15:11 +0000",
+      "minecraft:stony_shore": "2025-08-06 01:07:49 +0000",
       "minecraft:dripstone_caves": "2025-08-04 00:34:43 +0000",
+      "minecraft:snowy_taiga": "2025-08-06 01:18:29 +0000",
       "minecraft:swamp": "2025-08-02 23:29:46 +0000",
       "minecraft:grove": "2025-08-06 00:18:22 +0000",
+      "minecraft:cold_ocean": "2025-08-06 01:12:30 +0000",
       "minecraft:forest": "2025-08-04 00:10:56 +0000",
+      "minecraft:ice_spikes": "2025-08-06 01:23:24 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-08-06 01:12:22 +0000",
       "minecraft:windswept_savanna": "2025-08-03 00:23:11 +0000",
       "minecraft:flower_forest": "2025-08-06 00:03:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-04 00:23:54 +0000",
@@ -1901,6 +2009,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 04:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-08-06 01:05:05 +0000"
     },
     "done": true
   },
@@ -2093,6 +2207,12 @@
   "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-08-05 23:58:16 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-08-06 01:02:18 +0000"
     },
     "done": true
   },
@@ -2300,6 +2420,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-08-06 01:05:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-08-04 02:20:54 +0000"
@@ -2342,6 +2468,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-06 01:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-08-06 01:05:05 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge": {
     "criteria": {
       "has_planks": "2025-08-04 00:12:47 +0000"
@@ -2363,6 +2501,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-04 00:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-06 01:05:05 +0000"
     },
     "done": true
   },
@@ -2435,6 +2579,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-08-05 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/rock_path": {
+    "criteria": {
+      "has_stone": "2025-08-06 01:05:05 +0000"
     },
     "done": true
   },
@@ -2708,6 +2858,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-08-06 01:07:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-04 02:19:44 +0000"
@@ -2735,6 +2891,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-08-04 00:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-06 01:02:18 +0000"
     },
     "done": true
   },
@@ -2864,6 +3026,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-08-04 00:31:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed": "2025-08-06 01:03:05 +0000"
     },
     "done": true
   },
@@ -3065,6 +3233,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2025-08-06 01:14:55 +0000"
+    },
+    "done": true
+  },
   "chipped:recipes/carpenters_table": {
     "criteria": {
       "has_carpenters_table": "2025-08-05 23:27:28 +0000"
@@ -3239,6 +3413,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-06 01:03:08 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/deeperdarker/cobbled_sculk_stone_stairs": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-08-06 00:28:44 +0000"
@@ -3323,6 +3503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-06 01:05:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-08-04 00:26:51 +0000"
@@ -3344,6 +3530,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-04 00:38:52 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-08-06 01:05:05 +0000"
     },
     "done": true
   },
@@ -3464,6 +3656,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-04 02:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-08-06 01:05:05 +0000"
     },
     "done": true
   },
@@ -3622,6 +3820,12 @@
       "overcast_columns": "2025-08-06 00:26:47 +0000",
       "deeplands": "2025-08-06 00:29:59 +0000",
       "echoing_forest": "2025-08-06 00:28:30 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-08-06 01:21:03 +0000"
     },
     "done": true
   },
@@ -3813,6 +4017,12 @@
     },
     "done": true
   },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_oak": "2025-08-06 00:59:58 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/birch_mail_box": {
     "criteria": {
       "has_chest": "2025-08-04 05:21:29 +0000"
@@ -3873,6 +4083,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-08-06 01:02:18 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/deeperdarker/polished_gloomslate_stairs_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-08-06 00:27:04 +0000"
@@ -3882,6 +4098,12 @@
   "cfm:recipes/cfm/pink_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-08-05 23:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-06 01:05:05 +0000"
     },
     "done": true
   },
@@ -3948,6 +4170,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-08-06 00:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-08-06 01:05:05 +0000"
     },
     "done": true
   },
