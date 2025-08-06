@@ -1989,6 +1989,7 @@
       "minecraft:old_growth_birch_forest": "2025-08-04 00:23:54 +0000",
       "minecraft:deep_dark": "2025-08-06 00:15:15 +0000",
       "minecraft:meadow": "2025-08-06 00:02:02 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-08-06 01:51:04 +0000",
       "minecraft:plains": "2025-08-04 00:21:38 +0000"
     },
     "done": false
@@ -2674,6 +2675,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 00:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-06 01:51:47 +0000"
     },
     "done": true
   },
@@ -3610,6 +3617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-06 01:53:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-04 00:13:03 +0000"
@@ -4292,11 +4305,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-06 01:53:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-08-04 05:21:29 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_cold": "2025-08-06 01:53:58 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/gray_grill": {
     "criteria": {
