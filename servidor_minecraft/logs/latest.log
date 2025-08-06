@@ -613,3 +613,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [06Aug2025 03:13:39.307] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3308, l='ServerLevel[world]', x=-1120.73, y=102.56, z=-36.42] died, message: 'Villager was slain by assdestroyer'
 [06Aug2025 03:14:00.105] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3432, l='ServerLevel[world]', x=-1107.32, y=102.56, z=-35.91] died, message: 'Villager was slain by assdestroyer'
 [06Aug2025 03:14:00.808] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3464, l='ServerLevel[world]', x=-1106.71, y=102.56, z=-35.62] died, message: 'Villager was slain by assdestroyer'
+[06Aug2025 03:33:41.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3148, l='ServerLevel[world]', x=-1106.46, y=102.56, z=-19.08] died, message: 'Villager was slain by assdestroyer'
+[06Aug2025 03:35:11.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer has made the advancement [Straddle My Ol' Saddle]
+[06Aug2025 03:36:12.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer has reached the goal [Hired Help]
+[06Aug2025 03:49:35.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Aug2025 03:49:35.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Aug2025 03:49:35.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Aug2025 03:49:35.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: assdestroyer lost connection: Server closed
+[06Aug2025 03:49:35.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer left the game
+[06Aug2025 03:49:35.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Aug2025 03:49:37.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Aug2025 03:49:38.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[06Aug2025 03:49:38.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Aug2025 03:49:38.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[06Aug2025 03:49:38.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Aug2025 03:49:38.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Aug2025 03:49:38.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[06Aug2025 03:49:38.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Aug2025 03:49:38.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[06Aug2025 03:49:38.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Aug2025 03:49:38.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Aug2025 03:49:38.254] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for easymagic
