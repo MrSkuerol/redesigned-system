@@ -616,3 +616,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [06Aug2025 05:00:17.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14576, l='ServerLevel[world]', x=-1096.60, y=64.00, z=39.39] died, message: 'Villager hit the ground too hard'
 [06Aug2025 05:01:13.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['godoy'/9521, l='ServerLevel[world]', x=-1109.49, y=102.55, z=-24.29] died: godoy was slain by Iron Golem
 [06Aug2025 05:01:15.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['godoy'/10191, l='ServerLevel[world]', x=-1110.27, y=102.55, z=-23.60] died: godoy was slain by Iron Golem
+[06Aug2025 05:07:17.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: assdestroyer lost connection: Timed out
+[06Aug2025 05:07:17.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer left the game
+[06Aug2025 05:07:17.128] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Aug2025 05:09:28.928] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@59e7306e
+[06Aug2025 05:09:28.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: assdestroyer[/127.63.183.62:42915] logged in with entity id 17812 at (-1111.981136398191, 98.22718561960745, -22.78915834908239)
+[06Aug2025 05:09:28.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer joined the game
+[06Aug2025 05:13:24.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: assdestroyer lost connection: Disconnected
+[06Aug2025 05:13:24.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer left the game
