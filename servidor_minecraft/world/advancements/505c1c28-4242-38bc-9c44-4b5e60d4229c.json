@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/write_cassette_tape": {
+    "criteria": {
+      "write_cassette_tape": "2025-08-06 00:09:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-04 03:01:28 +0000"
@@ -659,6 +665,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2025-08-06 00:10:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_picket_gate": {
     "criteria": {
       "has_gate": "2025-08-04 03:54:31 +0000"
@@ -722,6 +734,12 @@
   "cfm:recipes/cfm/stripped_mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-08-04 00:23:17 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/add_music": {
+    "criteria": {
+      "add_music": "2025-08-06 00:08:33 +0000"
     },
     "done": true
   },
@@ -961,6 +979,12 @@
   "mcwbridges:recipes/acacia_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-08-04 02:24:12 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/echo_boat": {
+    "criteria": {
+      "in_water": "2025-08-06 00:11:40 +0000"
     },
     "done": true
   },
