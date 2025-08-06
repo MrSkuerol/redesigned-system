@@ -3415,6 +3415,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-08-06 04:49:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-08-04 03:33:45 +0000"

@@ -3375,3 +3375,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [06Aug2025 04:49:01.133] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
 [06Aug2025 04:49:01.133] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
 [06Aug2025 04:49:27.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer has made the advancement [Source of Evil]
+[06Aug2025 04:52:29.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Aug2025 04:52:29.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Aug2025 04:57:29.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Aug2025 04:57:29.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Aug2025 05:00:17.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14576, l='ServerLevel[world]', x=-1096.60, y=64.00, z=39.39] died, message: 'Villager hit the ground too hard'
+[06Aug2025 05:01:13.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['godoy'/9521, l='ServerLevel[world]', x=-1109.49, y=102.55, z=-24.29] died: godoy was slain by Iron Golem
+[06Aug2025 05:01:15.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['godoy'/10191, l='ServerLevel[world]', x=-1110.27, y=102.55, z=-23.60] died: godoy was slain by Iron Golem
