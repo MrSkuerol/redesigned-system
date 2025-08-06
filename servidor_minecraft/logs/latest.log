@@ -224,3 +224,25 @@
 [06Aug2025 01:35:41.957] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-278, 222], pos: BlockPos{x=-4446, y=50, z=3567}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / aquamirae:oxygelium]
 [06Aug2025 01:35:41.957] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-278, 222], pos: BlockPos{x=-4445, y=49, z=3567}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / aquamirae:oxygelium]
 [06Aug2025 01:38:26.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[06Aug2025 01:38:36.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[06Aug2025 01:38:38.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[06Aug2025 01:39:08.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[06Aug2025 01:39:13.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[06Aug2025 01:39:24.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[06Aug2025 01:40:36.482] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/57495, l='ServerLevel[world]', x=-4186.50, y=56.00, z=3683.50]
+[06Aug2025 01:40:43.422] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4331, y=35, z=3900} but found not block entity block Block{minecraft:water}[level=2] at location
+[06Aug2025 01:40:43.422] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=-4331, y=35, z=3900}
+[06Aug2025 01:40:43.423] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4328, y=35, z=3900} but found not block entity block Block{minecraft:water}[level=5] at location
+[06Aug2025 01:40:43.423] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=5] but failed at location BlockPos{x=-4328, y=35, z=3900}
+[06Aug2025 01:43:58.728] [Worker-Main-56/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-4752, y=41, z=5315}
+[06Aug2025 01:45:01.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has made the advancement [Invitation to the Tea Party]
+[06Aug2025 01:45:46.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has made the advancement [Spooky Scary Skeleton]
+[06Aug2025 01:46:51.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[06Aug2025 01:46:58.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[06Aug2025 01:47:16.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has made the advancement [Suit Up]
+[06Aug2025 01:47:27.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[06Aug2025 01:47:34.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[06Aug2025 01:47:53.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Adventure Mode]
+[06Aug2025 01:47:54.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[06Aug2025 01:47:56.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[06Aug2025 01:48:01.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
