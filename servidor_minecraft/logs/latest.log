@@ -612,3 +612,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [07Aug2025 16:48:23.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6541ms or 130 ticks behind
 [07Aug2025 16:48:40.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2280ms or 45 ticks behind
 [07Aug2025 16:50:32.965] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 16:57:29.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo fell from a high place
+[07Aug2025 17:00:11.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has made the advancement [Gravedigger]
+[07Aug2025 17:01:01.544] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/6847, l='ServerLevel[world]', x=-3967.50, y=58.00, z=8307.50]
+[07Aug2025 17:02:04.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
+[07Aug2025 17:02:49.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[07Aug2025 17:03:31.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has made the advancement [We Just Want our Hat Back]
+[07Aug2025 17:03:34.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has made the advancement [A Bone to Pick]
+[07Aug2025 17:10:55.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has made the advancement [Disturbing the Dead I]
+[07Aug2025 17:12:06.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[07Aug2025 17:12:15.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[07Aug2025 17:14:04.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[07Aug2025 17:14:08.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
