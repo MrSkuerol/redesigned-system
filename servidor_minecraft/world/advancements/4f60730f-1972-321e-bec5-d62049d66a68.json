@@ -427,9 +427,10 @@
   },
   "corail_recycler:recipes/steel_disk": {
     "criteria": {
-      "requirement_2": "2025-08-06 00:52:34 +0000"
+      "requirement_2": "2025-08-06 00:52:34 +0000",
+      "requirement_1": "2025-08-07 23:48:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwbridges:recipes/mossy_stone_brick_bridge": {
     "criteria": {
@@ -1726,6 +1727,12 @@
       "has_log": "2025-08-04 02:21:21 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_sapling": "2025-08-07 23:39:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
@@ -5229,6 +5236,12 @@
       "in_ruins_land_cold": "2025-08-06 01:53:58 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-07 23:48:42 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/cfm/lime_grill": {
     "criteria": {

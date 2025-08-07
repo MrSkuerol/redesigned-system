@@ -3527,3 +3527,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [07Aug2025 23:30:31.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
 [07Aug2025 23:31:09.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Aug2025 23:31:09.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 23:31:57.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[07Aug2025 23:32:53.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[07Aug2025 23:33:21.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[07Aug2025 23:33:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[07Aug2025 23:33:43.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[07Aug2025 23:34:13.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[07Aug2025 23:34:16.137] [Worker-Main-78/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-453, -88], pos: BlockPos{x=-7248, y=5, z=-1401}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:default_fallen_logs]
+[07Aug2025 23:34:16.137] [Worker-Main-78/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-453, -88], pos: BlockPos{x=-7248, y=6, z=-1401}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:default_fallen_logs]
+[07Aug2025 23:34:38.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[07Aug2025 23:34:41.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[07Aug2025 23:34:43.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo moved wrongly!
+[07Aug2025 23:34:58.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[07Aug2025 23:35:16.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[07Aug2025 23:36:01.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[07Aug2025 23:36:09.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 23:36:09.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 23:36:17.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[07Aug2025 23:36:18.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[07Aug2025 23:36:20.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[07Aug2025 23:36:26.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[07Aug2025 23:36:49.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[07Aug2025 23:37:44.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[07Aug2025 23:38:38.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[07Aug2025 23:38:39.220] [Worker-Main-85/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-84, 46], pos: BlockPos{x=-1337, y=61, z=736}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:tree/hollow_oak]
+[07Aug2025 23:38:39.221] [Worker-Main-85/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-84, 46], pos: BlockPos{x=-1337, y=62, z=736}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:tree/hollow_oak]
+[07Aug2025 23:38:39.221] [Worker-Main-85/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-84, 46], pos: BlockPos{x=-1337, y=60, z=736}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:tree/hollow_oak]
+[07Aug2025 23:38:39.222] [Worker-Main-85/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-84, 46], pos: BlockPos{x=-1336, y=61, z=736}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:tree/hollow_oak]
+[07Aug2025 23:38:39.222] [Worker-Main-85/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-84, 46], pos: BlockPos{x=-1336, y=62, z=736}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:tree/hollow_oak]
+[07Aug2025 23:38:39.222] [Worker-Main-85/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-84, 46], pos: BlockPos{x=-1336, y=60, z=736}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:tree/hollow_oak]
+[07Aug2025 23:38:39.223] [Worker-Main-85/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-84, 46], pos: BlockPos{x=-1338, y=61, z=736}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:tree/hollow_oak]
+[07Aug2025 23:38:39.223] [Worker-Main-85/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-84, 46], pos: BlockPos{x=-1338, y=62, z=736}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:tree/hollow_oak]
+[07Aug2025 23:38:39.224] [Worker-Main-85/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-84, 46], pos: BlockPos{x=-1338, y=60, z=736}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:tree/hollow_oak]
+[07Aug2025 23:41:09.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 23:41:09.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 23:41:58.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo moved too quickly! -10.851967258608283,61.32352912385573,6.471538155101285
+[07Aug2025 23:46:09.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 23:46:09.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 23:51:09.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 23:51:09.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
