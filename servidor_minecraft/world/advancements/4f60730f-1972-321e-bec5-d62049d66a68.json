@@ -1649,6 +1649,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fortification_scepter": {
+    "criteria": {
+      "has_item": "2025-08-07 23:08:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-04 00:50:22 +0000"
@@ -3043,6 +3049,12 @@
   "minecraft:recipes/building_blocks/ice_from_freezing": {
     "criteria": {
       "has_water": "2025-08-04 00:20:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/charm_of_life_2": {
+    "criteria": {
+      "has_item": "2025-08-07 23:02:01 +0000"
     },
     "done": true
   },
