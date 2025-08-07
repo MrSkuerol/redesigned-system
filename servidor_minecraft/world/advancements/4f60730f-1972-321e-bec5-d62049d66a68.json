@@ -659,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice_from_freezing": {
+    "criteria": {
+      "has_packed_ice": "2025-08-07 18:12:10 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/fish_bones": {
     "criteria": {
       "sopa_de_macaco": "2025-08-07 17:03:34 +0000"
@@ -3500,6 +3506,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/lime_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-08-07 18:09:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 00:37:16 +0000"
@@ -4053,6 +4065,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/lime_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-08-07 18:09:15 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2025-08-04 04:38:24 +0000"
@@ -4293,6 +4311,12 @@
   "cfm:recipes/cfm/crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-08-04 05:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-08-07 18:12:10 +0000"
     },
     "done": true
   },
