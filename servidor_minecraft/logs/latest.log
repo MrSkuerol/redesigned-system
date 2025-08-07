@@ -728,3 +728,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [07Aug2025 19:29:30.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
 [07Aug2025 19:30:35.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
 [07Aug2025 19:31:04.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[07Aug2025 19:54:58.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
