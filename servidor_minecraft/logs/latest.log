@@ -729,3 +729,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [07Aug2025 19:30:35.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
 [07Aug2025 19:31:04.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
 [07Aug2025 19:54:58.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[07Aug2025 19:59:40.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo lost connection: Disconnected
+[07Aug2025 19:59:40.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo left the game
+[07Aug2025 19:59:50.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Aug2025 19:59:50.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Aug2025 19:59:50.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Aug2025 19:59:51.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Aug2025 19:59:52.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Aug2025 19:59:52.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[07Aug2025 19:59:52.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Aug2025 19:59:52.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[07Aug2025 19:59:52.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Aug2025 19:59:52.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Aug2025 19:59:52.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[07Aug2025 19:59:52.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Aug2025 19:59:52.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[07Aug2025 19:59:52.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Aug2025 19:59:52.661] [Thread-0/INFO] [Puzzles Lib/]: Unloading server config for easymagic

@@ -3666,3 +3666,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [07Aug2025 19:54:58.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
 [07Aug2025 19:57:45.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Aug2025 19:57:45.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 19:59:40.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo lost connection: Disconnected
+[07Aug2025 19:59:40.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo left the game
+[07Aug2025 19:59:50.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Aug2025 19:59:50.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Aug2025 19:59:50.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Aug2025 19:59:51.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Aug2025 19:59:52.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Aug2025 19:59:52.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[07Aug2025 19:59:52.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Aug2025 19:59:52.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[07Aug2025 19:59:52.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 19:59:52.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 19:59:52.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Aug2025 19:59:52.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Aug2025 19:59:52.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[07Aug2025 19:59:52.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Aug2025 19:59:52.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[07Aug2025 19:59:52.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Aug2025 19:59:52.658] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[07Aug2025 19:59:52.658] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[07Aug2025 19:59:52.659] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
+[07Aug2025 19:59:52.660] [Thread-0/DEBUG] [fuzs.puzzleslib.config.core.ForgeConfigFileTypeHandler/CONFIG]: Config file easymagic-server.toml changed, sending notifies
+[07Aug2025 19:59:52.661] [Thread-0/INFO] [Puzzles Lib/]: Unloading server config for easymagic
