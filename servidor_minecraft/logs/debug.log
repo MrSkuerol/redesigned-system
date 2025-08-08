@@ -3806,3 +3806,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [08Aug2025 04:36:32.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Aug2025 04:41:32.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Aug2025 04:41:32.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 04:45:43.018] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/233, l='ServerLevel[world]', x=-1094.44, y=205.56, z=35.95] died, message: 'Villager was slain by assdestroyer'
+[08Aug2025 04:46:05.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/232, l='ServerLevel[world]', x=-1103.02, y=205.00, z=29.32] died, message: 'Librarian was slain by assdestroyer'
+[08Aug2025 04:46:06.365] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/247, l='ServerLevel[world]', x=-1103.43, y=205.00, z=34.24] died, message: 'Librarian was slain by assdestroyer'
+[08Aug2025 04:46:07.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/245, l='ServerLevel[world]', x=-1101.30, y=205.00, z=34.37] died, message: 'Librarian was slain by assdestroyer'
+[08Aug2025 04:46:09.770] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/246, l='ServerLevel[world]', x=-1089.15, y=206.75, z=34.70] died, message: 'Librarian was slain by assdestroyer'
+[08Aug2025 04:46:10.867] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/244, l='ServerLevel[world]', x=-1090.35, y=205.56, z=35.39] died, message: 'Librarian was slain by assdestroyer'
+[08Aug2025 04:46:12.145] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/241, l='ServerLevel[world]', x=-1089.70, y=207.00, z=37.48] died, message: 'Librarian was slain by assdestroyer'
+[08Aug2025 04:46:12.670] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/242, l='ServerLevel[world]', x=-1090.30, y=206.56, z=35.60] died, message: 'Villager was slain by assdestroyer'
+[08Aug2025 04:46:29.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Successfully filled 3205 blocks]
+[08Aug2025 04:46:32.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 04:46:32.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 04:50:24.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <assdestroyer> wa chinir a ver si puedes poner aldeanos aqui abajo de la casa
+[08Aug2025 04:50:30.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <assdestroyer> ya tienen sus jaulas
+[08Aug2025 04:50:34.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> anos
+[08Aug2025 04:50:41.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: assdestroyer lost connection: Disconnected
+[08Aug2025 04:50:41.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer left the game
+[08Aug2025 04:51:32.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 04:51:32.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

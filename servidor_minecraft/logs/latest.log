@@ -662,3 +662,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [08Aug2025 04:27:13.030] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/261, l='ServerLevel[world]', x=-1082.71, y=64.00, z=30.02] died, message: 'Librarian hit the ground too hard'
 [08Aug2025 04:28:04.731] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/243, l='ServerLevel[world]', x=-1083.23, y=64.00, z=23.04] died, message: 'Librarian hit the ground too hard'
 [08Aug2025 04:34:50.491] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['�cSmacking Frygon the Swift of Poisoning'/18173, l='ServerLevel[world]', x=-1034.34, y=58.15, z=-84.39] died: �cSmacking Frygon the Swift of Poisoning was slain by assdestroyer
+[08Aug2025 04:45:43.018] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/233, l='ServerLevel[world]', x=-1094.44, y=205.56, z=35.95] died, message: 'Villager was slain by assdestroyer'
+[08Aug2025 04:46:05.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/232, l='ServerLevel[world]', x=-1103.02, y=205.00, z=29.32] died, message: 'Librarian was slain by assdestroyer'
+[08Aug2025 04:46:06.365] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/247, l='ServerLevel[world]', x=-1103.43, y=205.00, z=34.24] died, message: 'Librarian was slain by assdestroyer'
+[08Aug2025 04:46:07.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/245, l='ServerLevel[world]', x=-1101.30, y=205.00, z=34.37] died, message: 'Librarian was slain by assdestroyer'
+[08Aug2025 04:46:09.770] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/246, l='ServerLevel[world]', x=-1089.15, y=206.75, z=34.70] died, message: 'Librarian was slain by assdestroyer'
+[08Aug2025 04:46:10.867] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/244, l='ServerLevel[world]', x=-1090.35, y=205.56, z=35.39] died, message: 'Librarian was slain by assdestroyer'
+[08Aug2025 04:46:12.145] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/241, l='ServerLevel[world]', x=-1089.70, y=207.00, z=37.48] died, message: 'Librarian was slain by assdestroyer'
+[08Aug2025 04:46:12.670] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/242, l='ServerLevel[world]', x=-1090.30, y=206.56, z=35.60] died, message: 'Villager was slain by assdestroyer'
+[08Aug2025 04:46:29.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Successfully filled 3205 blocks]
+[08Aug2025 04:50:24.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <assdestroyer> wa chinir a ver si puedes poner aldeanos aqui abajo de la casa
+[08Aug2025 04:50:30.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <assdestroyer> ya tienen sus jaulas
+[08Aug2025 04:50:34.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> anos
+[08Aug2025 04:50:41.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: assdestroyer lost connection: Disconnected
+[08Aug2025 04:50:41.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer left the game
