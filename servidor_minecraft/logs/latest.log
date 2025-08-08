@@ -30,3 +30,16 @@
 [08Aug2025 00:45:55.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set the time to 1000]
 [08Aug2025 00:46:06.153] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/190658, l='ServerLevel[world]', x=-1104.06, y=64.00, z=37.32] died, message: 'Villager hit the ground too hard'
 [08Aug2025 00:52:42.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Successfully filled 1153 blocks]
+[08Aug2025 00:52:54.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Successfully filled 3039 blocks]
+[08Aug2025 00:53:13.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Successfully filled 989 blocks]
+[08Aug2025 00:53:26.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Successfully filled 1309 blocks]
+[08Aug2025 00:53:31.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Successfully filled 684 blocks]
+[08Aug2025 00:53:40.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Successfully filled 470 blocks]
+[08Aug2025 00:53:53.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Successfully filled 73 blocks]
+[08Aug2025 00:54:37.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Successfully filled 138 blocks]
+[08Aug2025 00:54:55.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Successfully filled 928 blocks]
+[08Aug2025 00:55:04.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Successfully filled 1789 blocks]
+[08Aug2025 00:55:18.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[08Aug2025 01:01:14.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1141, y=65, z=52} BlockPos{x=-1140, y=64, z=54}
+[08Aug2025 01:01:14.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1140, y=65, z=52} BlockPos{x=-1140, y=64, z=54}
+[08Aug2025 01:01:14.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1140, y=65, z=51} BlockPos{x=-1140, y=64, z=54}
