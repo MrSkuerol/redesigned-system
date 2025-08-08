@@ -656,3 +656,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [08Aug2025 04:21:11.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-993, y=77, z=-132} BlockPos{x=-993, y=78, z=-133}
 [08Aug2025 04:21:15.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-990, y=78, z=-130} BlockPos{x=-990, y=78, z=-129}
 [08Aug2025 04:21:28.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer fell from a high place
+[08Aug2025 04:22:54.979] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/234, l='ServerLevel[world]', x=-1084.54, y=64.00, z=24.71] died, message: 'Librarian hit the ground too hard'
+[08Aug2025 04:27:01.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/262, l='ServerLevel[world]', x=-1083.37, y=64.00, z=25.77] died, message: 'Villager hit the ground too hard'
+[08Aug2025 04:27:12.731] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/248, l='ServerLevel[world]', x=-1086.54, y=64.00, z=31.49] died, message: 'Librarian hit the ground too hard'
+[08Aug2025 04:27:13.030] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/261, l='ServerLevel[world]', x=-1082.71, y=64.00, z=30.02] died, message: 'Librarian hit the ground too hard'
+[08Aug2025 04:28:04.731] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/243, l='ServerLevel[world]', x=-1083.23, y=64.00, z=23.04] died, message: 'Librarian hit the ground too hard'
