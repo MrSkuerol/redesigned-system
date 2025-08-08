@@ -3574,3 +3574,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [08Aug2025 03:48:35.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> digo cerrando el ano y la zona
 [08Aug2025 03:48:47.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <assdestroyer> aka
 [08Aug2025 03:48:47.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> pa que ningun mob penetre
+[08Aug2025 03:51:32.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 03:51:32.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 03:56:32.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 03:56:32.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 04:00:35.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> xd
+[08Aug2025 04:01:02.867] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[08Aug2025 04:01:02.868] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[08Aug2025 04:01:02.869] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[08Aug2025 04:01:02.871] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[08Aug2025 04:01:02.871] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[08Aug2025 04:01:04.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> echame tu cassete pibe
+[08Aug2025 04:01:20.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[08Aug2025 04:01:24.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> xddd
