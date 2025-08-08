@@ -1008,6 +1008,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-08-08 02:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-08-04 00:34:47 +0000"
@@ -3372,6 +3378,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-08-08 02:11:22 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/haunted_house": {
     "criteria": {
       "haunted_house": "2025-08-06 01:45:01 +0000"
@@ -5216,6 +5228,12 @@
   "mcwbridges:recipes/iron_bridge_pier": {
     "criteria": {
       "has_planks": "2025-08-06 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-08-08 02:11:22 +0000"
     },
     "done": true
   },
