@@ -3782,3 +3782,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [08Aug2025 04:11:32.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Aug2025 04:11:33.440] [Server thread/DEBUG] [twilightforest/]: Player assdestroyer (505c1c28-4242-38bc-9c44-4b5e60d4229c) respawned and received items held in storage
 [08Aug2025 04:11:34.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> xd
+[08Aug2025 04:11:38.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <assdestroyer> mielda
+[08Aug2025 04:16:32.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 04:16:32.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 04:20:22.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-993, y=79, z=-131} BlockPos{x=-992, y=78, z=-133}
+[08Aug2025 04:21:11.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-993, y=77, z=-132} BlockPos{x=-993, y=78, z=-133}
+[08Aug2025 04:21:15.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-990, y=78, z=-130} BlockPos{x=-990, y=78, z=-129}
+[08Aug2025 04:21:28.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer fell from a high place
+[08Aug2025 04:21:29.950] [Server thread/DEBUG] [twilightforest/]: Player assdestroyer (505c1c28-4242-38bc-9c44-4b5e60d4229c) respawned and received items held in storage
+[08Aug2025 04:21:32.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 04:21:32.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -651,3 +651,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [08Aug2025 04:09:53.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: assdestroyer moved wrongly!
 [08Aug2025 04:11:31.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer fell from a high place
 [08Aug2025 04:11:34.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> xd
+[08Aug2025 04:11:38.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <assdestroyer> mielda
+[08Aug2025 04:20:22.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-993, y=79, z=-131} BlockPos{x=-992, y=78, z=-133}
+[08Aug2025 04:21:11.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-993, y=77, z=-132} BlockPos{x=-993, y=78, z=-133}
+[08Aug2025 04:21:15.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-990, y=78, z=-130} BlockPos{x=-990, y=78, z=-129}
+[08Aug2025 04:21:28.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer fell from a high place

@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-08-08 04:17:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_cabinet": {
     "criteria": {
       "has_planks": "2025-08-04 01:11:59 +0000"
@@ -398,6 +404,12 @@
   "mcwbridges:recipes/iron_bridge": {
     "criteria": {
       "has_planks": "2025-08-04 01:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-08 04:20:13 +0000"
     },
     "done": true
   },
@@ -494,6 +506,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-04 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-08 04:14:42 +0000"
     },
     "done": true
   },
@@ -871,6 +889,18 @@
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-08-04 01:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-08 04:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-08 04:20:20 +0000"
     },
     "done": true
   },
@@ -1333,6 +1363,12 @@
   "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-08-04 00:29:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-08 04:14:42 +0000"
     },
     "done": true
   },
@@ -2088,6 +2124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-08 04:14:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-08-04 00:23:17 +0000"
@@ -2283,6 +2325,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-08-06 01:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-08 04:13:36 +0000"
     },
     "done": true
   },
@@ -3439,6 +3487,12 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/iammusicplayer.iammusicplayer/manual": {
+    "criteria": {
+      "has_book": "2025-08-08 04:14:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-04 00:47:57 +0000"
@@ -3666,6 +3720,12 @@
   "cfm:recipes/cfm/brown_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-08-04 00:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-08 04:13:36 +0000"
     },
     "done": true
   },
@@ -3906,6 +3966,12 @@
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-08-06 01:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-08 04:13:36 +0000"
     },
     "done": true
   },
