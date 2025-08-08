@@ -3364,3 +3364,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [08Aug2025 03:08:28.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
 [08Aug2025 03:09:38.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
 [08Aug2025 03:09:43.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
+[08Aug2025 03:11:32.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 03:11:32.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 03:16:32.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 03:16:32.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 03:17:02.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[08Aug2025 03:17:49.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
+[08Aug2025 03:18:21.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[08Aug2025 03:20:07.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
+[08Aug2025 03:20:11.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]

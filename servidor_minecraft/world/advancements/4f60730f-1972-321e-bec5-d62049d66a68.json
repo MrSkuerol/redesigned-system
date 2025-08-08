@@ -2412,6 +2412,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-08-08 03:11:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-04 00:50:22 +0000"
