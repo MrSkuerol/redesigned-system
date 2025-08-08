@@ -155,3 +155,12 @@
 [08Aug2025 01:38:36.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo has reached the goal [Beaconator]
 [08Aug2025 01:39:13.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
 [08Aug2025 01:41:57.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1042, y=66, z=78} BlockPos{x=-1043, y=65, z=79}
+[08Aug2025 01:45:31.002] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/190648, l='ServerLevel[world]', x=-1100.54, y=64.00, z=37.30] died, message: 'Villager hit the ground too hard'
+[08Aug2025 01:45:57.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> no oe
+[08Aug2025 01:46:03.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> esa parte ya no
+[08Aug2025 01:46:05.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> lod e atras
+[08Aug2025 01:46:12.953] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/190650, l='ServerLevel[world]', x=-1096.52, y=64.00, z=39.96] died, message: 'Villager hit the ground too hard'
+[08Aug2025 01:46:14.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> toda esa parte y ya ta
+[08Aug2025 01:46:50.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1053, y=65, z=-30} BlockPos{x=-1053, y=64, z=-29}
+[08Aug2025 01:48:15.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> yata
+[08Aug2025 01:48:23.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> se acabo
