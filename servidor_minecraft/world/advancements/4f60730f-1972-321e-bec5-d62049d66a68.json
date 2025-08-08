@@ -720,6 +720,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_lime_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-08-07 23:54:15 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/equipment/arctic_boots": {
     "criteria": {
       "has_item": "2025-08-07 23:23:11 +0000"
@@ -2736,6 +2742,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_lime_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-08-07 23:54:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_chair": {
     "criteria": {
       "has_log": "2025-08-04 02:21:21 +0000"
@@ -2877,6 +2889,12 @@
   "cfm:recipes/cfm/crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-08-05 23:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-08-07 23:54:15 +0000"
     },
     "done": true
   },

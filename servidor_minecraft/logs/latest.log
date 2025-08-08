@@ -780,3 +780,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [07Aug2025 23:38:39.223] [Worker-Main-85/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-84, 46], pos: BlockPos{x=-1338, y=62, z=736}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:tree/hollow_oak]
 [07Aug2025 23:38:39.224] [Worker-Main-85/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-84, 46], pos: BlockPos{x=-1338, y=60, z=736}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:tree/hollow_oak]
 [07Aug2025 23:41:58.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo moved too quickly! -10.851967258608283,61.32352912385573,6.471538155101285
+[07Aug2025 23:57:35.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
+[07Aug2025 23:57:48.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
