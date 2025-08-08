@@ -3613,3 +3613,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [08Aug2025 00:40:05.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
 [08Aug2025 00:41:09.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Aug2025 00:41:09.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 00:42:50.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[08Aug2025 00:45:14.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Spectator Mode]
+[08Aug2025 00:45:22.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
+[08Aug2025 00:45:48.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
+[08Aug2025 00:45:55.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set the time to 1000]
+[08Aug2025 00:46:06.153] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/190658, l='ServerLevel[world]', x=-1104.06, y=64.00, z=37.32] died, message: 'Villager hit the ground too hard'
+[08Aug2025 00:46:09.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 00:46:09.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 00:51:09.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 00:51:09.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 00:52:42.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Successfully filled 1153 blocks]
