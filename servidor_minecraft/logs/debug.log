@@ -3801,3 +3801,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [08Aug2025 04:28:04.731] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/243, l='ServerLevel[world]', x=-1083.23, y=64.00, z=23.04] died, message: 'Librarian hit the ground too hard'
 [08Aug2025 04:31:32.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Aug2025 04:31:32.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 04:34:50.491] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['�cSmacking Frygon the Swift of Poisoning'/18173, l='ServerLevel[world]', x=-1034.34, y=58.15, z=-84.39] died: �cSmacking Frygon the Swift of Poisoning was slain by assdestroyer
+[08Aug2025 04:36:32.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 04:36:32.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 04:41:32.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 04:41:32.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
