@@ -966,6 +966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-08-08 00:28:53 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_esca": {
     "criteria": {
       "esca": "2025-08-07 22:13:43 +0000"
@@ -1047,6 +1053,12 @@
   "mcwbridges:recipes/spruce_rail_bridge": {
     "criteria": {
       "has_planks": "2025-08-06 01:47:37 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-08-08 00:28:53 +0000"
     },
     "done": true
   },
@@ -1434,6 +1446,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-08-08 00:28:53 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2025-08-06 01:47:37 +0000"
@@ -1713,6 +1731,12 @@
   "twilightforest:recipes/decorations/berry_torch": {
     "criteria": {
       "has_item": "2025-08-07 17:57:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-08-08 00:28:53 +0000"
     },
     "done": true
   },
@@ -2022,6 +2046,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2025-08-08 00:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-04 04:19:04 +0000"
@@ -2166,6 +2196,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-08-08 00:28:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-08-04 05:21:29 +0000"
@@ -2181,6 +2217,12 @@
   "cfm:recipes/cfm/stripped_warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-08-05 23:58:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-08 00:28:53 +0000"
     },
     "done": true
   },
@@ -2443,6 +2485,12 @@
   "cfm:recipes/cfm/brown_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-08-05 23:58:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-08-08 00:28:53 +0000"
     },
     "done": true
   },
@@ -2820,6 +2868,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-08 00:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-08-04 00:13:17 +0000"
@@ -3084,6 +3138,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_blinds": {
+    "criteria": {
+      "has_log": "2025-08-08 00:28:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2025-08-04 05:12:26 +0000"
@@ -3311,6 +3371,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-08 00:28:53 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-08-04 00:24:17 +0000"
@@ -3516,6 +3582,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-08-08 00:28:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_crate": {
     "criteria": {
       "has_planks": "2025-08-04 00:12:03 +0000"
@@ -3705,6 +3777,12 @@
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-08-06 01:33:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-08-08 00:28:53 +0000"
     },
     "done": true
   },
@@ -4322,6 +4400,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-08-08 00:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2025-08-06 01:37:24 +0000"
@@ -4487,6 +4571,12 @@
   "cfm:recipes/cfm/cyan_cooler": {
     "criteria": {
       "has_chest": "2025-08-04 05:21:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2025-08-08 00:28:53 +0000"
     },
     "done": true
   },
@@ -5081,6 +5171,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2025-08-08 00:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-08-06 01:45:46 +0000"
@@ -5156,6 +5252,12 @@
   "mowziesmobs:kill_frostmaw": {
     "criteria": {
       "frostmaw": "2025-08-06 01:34:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-08-08 00:28:53 +0000"
     },
     "done": true
   },
