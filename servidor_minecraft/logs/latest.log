@@ -638,3 +638,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [08Aug2025 04:01:04.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> echame tu cassete pibe
 [08Aug2025 04:01:20.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Survival Mode]
 [08Aug2025 04:01:24.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> xddd
+[08Aug2025 04:02:23.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/264, l='ServerLevel[world]', x=-1089.96, y=64.00, z=34.77] died, message: 'Villager hit the ground too hard'
+[08Aug2025 04:04:39.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: assdestroyer was kicked for floating too long!
+[08Aug2025 04:04:39.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: assdestroyer lost connection: Flying is not enabled on this server
+[08Aug2025 04:04:39.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer left the game
+[08Aug2025 04:04:39.885] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Aug2025 04:05:01.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set own game mode to Creative Mode]
+[08Aug2025 04:05:20.500] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c277d59
+[08Aug2025 04:05:20.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: assdestroyer[/127.63.183.62:44987] logged in with entity id 11172 at (-1125.336426634934, 65.00133597911214, -32.46436838076084)
+[08Aug2025 04:05:20.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer joined the game
+[08Aug2025 04:09:26.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> 8k
+[08Aug2025 04:09:53.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: assdestroyer moved wrongly!
+[08Aug2025 04:11:31.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: assdestroyer fell from a high place
+[08Aug2025 04:11:34.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JesperOwo> xd
