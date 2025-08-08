@@ -3903,6 +3903,12 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/iammusicplayer.iammusicplayer/parabolic_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-08 01:56:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_picket_gate": {
     "criteria": {
       "has_gate": "2025-08-04 03:54:31 +0000"
@@ -3936,6 +3942,12 @@
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-08-04 00:23:17 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/iammusicplayer.iammusicplayer/radio_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-08 01:56:27 +0000"
     },
     "done": true
   },
