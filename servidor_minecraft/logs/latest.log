@@ -610,3 +610,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'funmod:uranium_leggings'
 [09Aug2025 02:47:03.559] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e6a0614
 [09Aug2025 02:47:03.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JesperOwo[/127.7.186.77:50789] logged in with entity id 237 at (-1133.8979751612972, 67.13593874214043, -44.015411625906225)
 [09Aug2025 02:47:03.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo joined the game
+[09Aug2025 02:56:19.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo lost connection: Timed out
+[09Aug2025 02:56:19.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo left the game
+[09Aug2025 02:56:19.773] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Aug2025 02:56:55.778] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3b622c92
+[09Aug2025 02:56:55.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JesperOwo[/127.7.186.77:39925] logged in with entity id 2170 at (-1132.8694924624274, 74.0, -42.32632681756108)
+[09Aug2025 02:56:55.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo joined the game
+[09Aug2025 02:57:25.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo lost connection: Timed out
+[09Aug2025 02:57:25.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo left the game
+[09Aug2025 02:58:04.779] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@72fe1f63
+[09Aug2025 02:58:04.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JesperOwo[/127.7.186.77:56763] logged in with entity id 2401 at (-1132.8694924624274, 74.0, -42.32632681756108)
+[09Aug2025 02:58:04.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo joined the game
+[09Aug2025 02:58:34.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo lost connection: Timed out
+[09Aug2025 02:58:34.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo left the game
+[09Aug2025 02:59:21.167] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a6b8ddc
+[09Aug2025 02:59:21.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JesperOwo[/127.7.186.77:45995] logged in with entity id 2634 at (-1132.8694924624274, 74.0, -42.32632681756108)
+[09Aug2025 02:59:21.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo joined the game
+[09Aug2025 02:59:51.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo lost connection: Timed out
+[09Aug2025 02:59:51.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo left the game
+[09Aug2025 03:00:13.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Aug2025 03:00:13.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Aug2025 03:00:13.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Aug2025 03:00:13.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Aug2025 03:00:15.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Aug2025 03:00:15.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[09Aug2025 03:00:15.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Aug2025 03:00:15.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[09Aug2025 03:00:15.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Aug2025 03:00:15.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Aug2025 03:00:15.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[09Aug2025 03:00:15.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Aug2025 03:00:15.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[09Aug2025 03:00:15.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Aug2025 03:00:15.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Aug2025 03:00:15.677] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for easymagic
