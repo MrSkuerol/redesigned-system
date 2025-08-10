@@ -24,3 +24,6 @@
 [10Aug2025 01:40:29.397] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c585aea
 [10Aug2025 01:40:29.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JesperOwo[/127.7.186.77:55597] logged in with entity id 29342 at (-1100.398427320992, 65.00345879927397, 81.97317621258622)
 [10Aug2025 01:40:29.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo joined the game
+[10Aug2025 02:08:18.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set the time to 1000]
+[10Aug2025 02:08:22.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set the time to 13000]
+[10Aug2025 02:08:34.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set the time to 15000]

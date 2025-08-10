@@ -5185,3 +5185,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Aug2025 02:00:20.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Aug2025 02:05:19.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Aug2025 02:05:19.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 02:08:18.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set the time to 1000]
+[10Aug2025 02:08:22.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set the time to 13000]
+[10Aug2025 02:08:34.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JesperOwo: Set the time to 15000]
+[10Aug2025 02:10:19.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 02:10:19.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 02:15:19.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 02:15:19.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
