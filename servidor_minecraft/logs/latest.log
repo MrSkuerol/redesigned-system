@@ -664,3 +664,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [09Aug2025 23:45:38.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JesperOwo[/127.7.186.77:54701] logged in with entity id 233 at (-1132.8694924624274, 74.0, -42.32632681756108)
 [09Aug2025 23:45:38.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo joined the game
 [09Aug2025 23:48:37.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo moved too quickly! -6.984568420419691,0.0,8.207231721926746
+[09Aug2025 23:54:23.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IllegalArgumentException: Payload may not be larger than 32767 bytes
+[09Aug2025 23:54:23.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo left the game
+[09Aug2025 23:54:34.956] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e5f3108
+[09Aug2025 23:54:34.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JesperOwo[/127.7.186.77:51677] logged in with entity id 2654 at (-1105.944068875269, 64.0, 88.25808184689184)
+[09Aug2025 23:54:34.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo joined the game
+[09Aug2025 23:55:01.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IllegalArgumentException: Payload may not be larger than 32767 bytes
+[09Aug2025 23:55:01.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo left the game
+[09Aug2025 23:55:11.253] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3eeb32ac
+[09Aug2025 23:55:11.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JesperOwo[/127.7.186.77:41377] logged in with entity id 2892 at (-1141.080602745215, 64.24880377189167, 88.95393399933845)
+[09Aug2025 23:55:11.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo joined the game
+[09Aug2025 23:56:49.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IllegalArgumentException: Payload may not be larger than 32767 bytes
+[09Aug2025 23:56:49.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo left the game
+[09Aug2025 23:57:01.101] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7012db6
+[09Aug2025 23:57:01.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JesperOwo[/127.7.186.77:58559] logged in with entity id 3377 at (-1138.2623005526793, 70.38465289381715, 96.75769017617401)
+[09Aug2025 23:57:01.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo joined the game
+[09Aug2025 23:57:16.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IllegalArgumentException: Payload may not be larger than 32767 bytes
+[09Aug2025 23:57:16.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo left the game
+[09Aug2025 23:57:26.848] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ab843ca
+[09Aug2025 23:57:26.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JesperOwo[/127.7.186.77:38609] logged in with entity id 3617 at (-1106.6377952841501, 70.38465289381715, 96.69999998807907)
+[09Aug2025 23:57:26.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo joined the game
