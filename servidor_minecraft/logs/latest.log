@@ -9,3 +9,18 @@
 [10Aug2025 00:12:07.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JesperOwo[/127.7.186.77:58799] logged in with entity id 7144 at (-1155.756528110946, 66.14890029068052, 80.69254662691132)
 [10Aug2025 00:12:07.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo joined the game
 [10Aug2025 01:13:54.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['�aLeaping Colin the Tremendous of Poisoning'/21246, l='ServerLevel[world]', x=-1036.11, y=75.00, z=139.60] died: �aLeaping Colin the Tremendous of Poisoning was slain by Iron Golem
+[10Aug2025 01:38:30.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IllegalArgumentException: Payload may not be larger than 32767 bytes
+[10Aug2025 01:38:30.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo left the game
+[10Aug2025 01:38:43.047] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60fb1249
+[10Aug2025 01:38:43.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JesperOwo[/127.7.186.77:33961] logged in with entity id 28449 at (-1042.6373592346263, 66.49852481872095, -38.21656607367544)
+[10Aug2025 01:38:43.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo joined the game
+[10Aug2025 01:38:57.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IllegalArgumentException: Payload may not be larger than 32767 bytes
+[10Aug2025 01:38:57.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo left the game
+[10Aug2025 01:39:08.649] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4a23170a
+[10Aug2025 01:39:08.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JesperOwo[/127.7.186.77:38225] logged in with entity id 28713 at (-1041.0774333228683, 66.49852481872095, -22.66690029891786)
+[10Aug2025 01:39:08.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo joined the game
+[10Aug2025 01:40:20.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JesperOwo lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IllegalArgumentException: Payload may not be larger than 32767 bytes
+[10Aug2025 01:40:20.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo left the game
+[10Aug2025 01:40:29.397] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c585aea
+[10Aug2025 01:40:29.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JesperOwo[/127.7.186.77:55597] logged in with entity id 29342 at (-1100.398427320992, 65.00345879927397, 81.97317621258622)
+[10Aug2025 01:40:29.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JesperOwo joined the game
